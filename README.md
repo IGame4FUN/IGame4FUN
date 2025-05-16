@@ -1,7 +1,7 @@
-### Know a bit of
+**Know a bit of:**
 - 🐍 Python
-- C#
-- C++
+- 💠 C#
+- 🖥️ C++
 
 <!---
 IGame4FUN/IGame4FUN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
